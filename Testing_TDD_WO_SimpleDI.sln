@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing_TDD_WO_SimpleDI", "Testing_TDD_WO_SimpleDI\Testing_TDD_WO_SimpleDI.csproj", "{29E606F0-0683-41B2-B508-25EFA04023AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest_TDD_WO_SimpleDI", "UnitTest_TDD_WO_SimpleDI\UnitTest_TDD_WO_SimpleDI.csproj", "{3B85C2A0-41F4-4870-9EEB-920D48013476}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{29E606F0-0683-41B2-B508-25EFA04023AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29E606F0-0683-41B2-B508-25EFA04023AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29E606F0-0683-41B2-B508-25EFA04023AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B85C2A0-41F4-4870-9EEB-920D48013476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B85C2A0-41F4-4870-9EEB-920D48013476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B85C2A0-41F4-4870-9EEB-920D48013476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B85C2A0-41F4-4870-9EEB-920D48013476}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
